@@ -1,7 +1,7 @@
 ## Hola, soy Cristian Albornoz 👋
 ### Full Stack Web Developer
 
-Soy de Argentina, me apasiona el desarrollo web. Descubrí el mundo de la programación cuando comence a estudiar Ingeniería en Sistemas de Información donde alcance el tercer año de dicha carrera y me didique a especializarme el en desarrollo web. Estoy enfocado en aprender nuevas tecnologías y crecer tanto profesional como personalmente. Saludos.
+Soy de Argentina y me apasiona el desarrollo web. Descubrí el mundo de la programación cuando comence a estudiar Ingeniería en Sistemas de Información donde alcance el tercer año de dicha carrera y me didique a especializarme el en desarrollo web. Estoy enfocado en aprender nuevas tecnologías y crecer tanto profesional como personalmente. Saludos.
 
 Puedes contactarme a través de:
 
