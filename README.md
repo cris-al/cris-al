@@ -1,11 +1,11 @@
 ## Hola, soy Cristian Albornoz 👋
 ### Full Stack Web Developer
 
-
+Soy de Argentina, me apasiona el desarrollo web. Descubrí el mundo de la programación cuando comence a estudiar Ingeniería en Sistemas de Información donde alcance el tercer año de dicha carrera y me didique a especializarme el en desarrollo web. Estoy enfocado en aprender nuevas tecnologías y crecer tanto profesional como personalmente. Saludos.
 
 Puedes contactarme a través de:
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-gabriel-albornoz-06bb07238/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-gabriel-albornoz-06bb07238/) o el correo que esta en mi perfil
 
 Lenguajes y Tecnologias:
 
