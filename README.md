@@ -19,6 +19,9 @@ Lenguajes y Tecnologias:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress)
+![JQuery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 <!--
 **cris-al/cris-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
